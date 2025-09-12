@@ -1,0 +1,16 @@
+{
+  "name": "codesynapse",
+  "version": "1.0.0",
+  "description": "🧠 **CodeSynapse** is an interactive 3D knowledge graph of coding interview problems.   Visualizes solved problems, their associated concepts, and how they relate, helping you map and review your Computer Science skills in an engaging, exploratory way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
