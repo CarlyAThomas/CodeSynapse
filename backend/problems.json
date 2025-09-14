@@ -1,9 +1,32 @@
 [
   {
-    "id": "example-1",
+    "id": "000000000001",
+    "title": "Fizz Buzz",
+    "difficulty": "Easy",
+    "concepts": [
+      "Loops",
+      "Conditionals"
+    ],
+    "link": "https://leetcode.com/problems/fizz-buzz/"
+  },
+  {
+    "id": "000000000002",
     "title": "Two Sum",
     "difficulty": "Easy",
-    "concepts": ["Hash Table", "Array"],
+    "concepts": [
+      "Arrays",
+      "Hash Map"
+    ],
     "link": "https://leetcode.com/problems/two-sum/"
+  },
+  {
+    "id": "000000000003",
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "concepts": [
+      "Two Pointers",
+      "Strings"
+    ],
+    "link": "https://leetcode.com/problems/valid-palindrome/"
   }
 ]

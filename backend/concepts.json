@@ -1,0 +1,52 @@
+{
+  "Data Structures": [
+    "Arrays",
+    "Strings",
+    "Linked Lists",
+    "Stacks",
+    "Queues",
+    "Hash Maps",
+    "Hash Sets",
+    "Heaps",
+    "Priority Queues",
+    "Trees",
+    "Binary Trees",
+    "Binary Search Trees",
+    "Tries",
+    "Graphs",
+    "Directed Graphs",
+    "Weighted Graphs"
+  ],
+  "Algorithms": [
+    "Sorting",
+    "Searching",
+    "Recursion",
+    "Backtracking",
+    "Divide and Conquer",
+    "Dynamic Programming",
+    "Greedy Algorithms",
+    "Graph Algorithms"
+  ],
+  "Problem Patterns": [
+    "Sliding Window",
+    "Two Pointers",
+    "Fast & Slow Pointers",
+    "Prefix Sum",
+    "Kadane’s Algorithm",
+    "Union-Find",
+    "Bit Manipulation",
+    "Math / Number Theory"
+  ],
+  "Complexity & Optimization": [
+    "Time Complexity Analysis",
+    "Space Complexity Analysis",
+    "Memoization",
+    "Caching"
+  ],
+  "System & Advanced": [
+    "Concurrency",
+    "Multithreading",
+    "Design Patterns",
+    "Object-Oriented Design"
+  ]
+}
