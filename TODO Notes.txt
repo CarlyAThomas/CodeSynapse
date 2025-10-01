@@ -1,0 +1,62 @@
+1. Visual Enhancements
+
+    Color Gradients by Difficulty
+        Easy = green, Medium = orange, Hard = red.
+        Lets you spot which clusters you’re strongest in.
+
+    Cluster Highlighting
+        Group nodes by concept (e.g., all DP problems cluster together with a faint “halo” around them).
+        You could use convex hulls or soft glowing groups.
+
+    Interactive Filters
+        Toggle checkboxes to only show problems of a certain difficulty or concepts.
+        Makes it less overwhelming when you have 50+ problems.
+
+    Problem Node Shapes
+        Problems = spheres, Concepts = cubes (or other geometry).
+        Visually separates data categories at a glance.
+
+2. Utility Enhancements
+
+    Problem Details Popup
+        On click, open a floating card with:
+            Problem description (or summary from your notes)
+            Difficulty
+            Link to problem site
+            Your solution notes/snippets
+
+    Search Bar
+        Search by problem name or concept → auto-focus the node in the graph.
+
+    Progress Tracking
+        Add a status field (Solved, Reviewing, Needs Practice).
+        Change node opacity or border glow based on status.
+
+    Concept Heatmap
+        Show “hot” concepts (lots of problems solved) vs. “cold” ones (few problems).
+        Could make nodes bigger or more vibrant based on frequency.
+
+3. Advanced / Wow Factor
+
+    Animated Learning Path
+        Select a concept → auto-animate a path through problems in increasing difficulty.
+
+    Similarity Edges
+        Beyond just concept links, calculate similarity between problems (e.g., “uses DP + backtracking”) → weighted edges.
+        Would show hidden relationships between problems.
+
+    Save / Resume View State
+        Save your camera position + filters, so you can come back where you left off.
+
+    Export Mode
+        Snapshot the 3D graph as an image (or export JSON of your graph) → could share on LinkedIn to show progress visually.
+
+ORDER:
+    From a portfolio perspective, I’d recommend starting with:
+
+    a. Color by difficulty
+    b. Clickable problem detail popup
+    c. Concept filter toggles
+        
+    Those 3 alone will make it way more useful and show off full-stack skills 
+    (frontend rendering, backend data structuring, interactive UI).

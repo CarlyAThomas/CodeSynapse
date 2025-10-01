@@ -1,26 +1,486 @@
 [
   {
     "id": "000000000001",
+    "title": "Apple Sharing",
+    "difficulty": "Easy",
+    "concepts": [
+      "Counting",
+      "Arrays",
+      "Hash Maps"
+    ],
+    "link": "https://leetcode.com/problems/apple-sharing/"
+  },
+  {
+    "id": "000000000002",
+    "title": "Apple Sharing 2",
+    "difficulty": "Easy",
+    "concepts": [
+      "Counting",
+      "Math",
+      "Modulus"
+    ],
+    "link": "https://leetcode.com/problems/apple-sharing/"
+  },
+  {
+    "id": "000000000003",
+    "title": "Area of a Triangle",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math",
+      "Geometry"
+    ],
+    "link": "https://leetcode.com/problems/area-of-a-triangle/"
+  },
+  {
+    "id": "000000000004",
+    "title": "Car Route",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000005",
+    "title": "Century",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000006",
+    "title": "Clock Face",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000007",
+    "title": "Compare Last Bit",
+    "difficulty": "Easy",
+    "concepts": [
+      "Bit Manipulation"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000008",
+    "title": "Count Number of Bits in Position",
+    "difficulty": "Easy",
+    "concepts": [
+      "Bit Manipulation"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000009",
+    "title": "Day of the Week",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000010",
+    "title": "Digit After Decimal Point",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math",
+      "Strings"
+    ],
+    "link": "https://leetcode.com/problems/digit-after-decimal-point/"
+  },
+  {
+    "id": "000000000011",
+    "title": "Digital Clock",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000012",
+    "title": "Distribute Apples to Students",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math",
+      "Counting"
+    ],
+    "link": "https://leetcode.com/problems/distribute-apples-to-students/"
+  },
+  {
+    "id": "000000000013",
+    "title": "Excel Sheet Column Number",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math",
+      "Strings"
+    ],
+    "link": "https://leetcode.com/problems/excel-sheet-column-number/"
+  },
+  {
+    "id": "000000000014",
     "title": "Fizz Buzz",
     "difficulty": "Easy",
     "concepts": [
       "Loops",
-      "Conditionals"
+      "Conditionals",
+      "Modulus"
     ],
     "link": "https://leetcode.com/problems/fizz-buzz/"
   },
   {
-    "id": "000000000002",
+    "id": "000000000015",
+    "title": "Hello Harry!",
+    "difficulty": "Easy",
+    "concepts": [
+      "Strings",
+      "Simulation"
+    ],
+    "link": "https://leetcode.com/problems/hello-harry/"
+  },
+  {
+    "id": "000000000016",
+    "title": "Hours and Minutes",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math",
+      "Simulation"
+    ],
+    "link": "https://leetcode.com/problems/hours-and-minutes/"
+  },
+  {
+    "id": "000000000017",
+    "title": "Least Number of Unique Integers After K Removals",
+    "difficulty": "Medium",
+    "concepts": [
+      "Arrays",
+      "Hash Maps",
+      "Greedy Algorithms"
+    ],
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/"
+  },
+  {
+    "id": "000000000018",
+    "title": "Length of Last Word",
+    "difficulty": "Easy",
+    "concepts": [
+      "Strings"
+    ],
+    "link": "https://leetcode.com/problems/length-of-last-word/"
+  },
+  {
+    "id": "000000000019",
+    "title": "Letter to Number",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000020",
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "concepts": [
+      "Strings",
+      "Sorting"
+    ],
+    "link": "https://leetcode.com/problems/longest-common-prefix/"
+  },
+  {
+    "id": "000000000021",
+    "title": "Middle of a Linked List",
+    "difficulty": "Easy",
+    "concepts": [
+      "Linked Lists",
+      "Two Pointers"
+    ],
+    "link": "https://leetcode.com/problems/middle-of-the-linked-list/"
+  },
+  {
+    "id": "000000000022",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math",
+      "Simulation"
+    ],
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/"
+  },
+  {
+    "id": "000000000023",
+    "title": "Make Palindrome from Substring",
+    "difficulty": "Easy",
+    "concepts": [
+      "Arrays",
+      "Two Pointers",
+      "Strings"
+    ],
+    "link": "https://leetcode.com/problems/make-palindrome-from-substring/"
+  },
+  {
+    "id": "000000000024",
+    "title": "Palindrome Number",
+    "difficulty": "Easy",
+    "concepts": [
+      "Two Pointers",
+      "Strings"
+    ],
+    "link": "https://leetcode.com/problems/palindrome-number/"
+  },
+  {
+    "id": "000000000025",
+    "title": "Plus One",
+    "difficulty": "Easy",
+    "concepts": [
+      "Arrays",
+      "Math"
+    ],
+    "link": "https://leetcode.com/problems/plus-one/"
+  },
+  {
+    "id": "000000000026",
+    "title": "Previous and Next",
+    "difficulty": "Easy",
+    "concepts": [
+      "Arrays",
+      "Two Pointers"
+    ],
+    "link": "https://leetcode.com/problems/previous-and-next/"
+  },
+  {
+    "id": "000000000027",
+    "title": "Print Letters from Column",
+    "difficulty": "Easy",
+    "concepts": [
+      "Strings"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000028",
+    "title": "Ransom Note",
+    "difficulty": "Easy",
+    "concepts": [
+      "Hash Maps",
+      "Strings"
+    ],
+    "link": "https://leetcode.com/problems/ransom-note/"
+  },
+  {
+    "id": "000000000029",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "Easy",
+    "concepts": [
+      "Arrays",
+      "Two Pointers"
+    ],
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+  },
+  {
+    "id": "000000000030",
+    "title": "Remove Last Bit",
+    "difficulty": "Easy",
+    "concepts": [
+      "Bit Manipulation"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000031",
+    "title": "Reverse the Digits",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math",
+      "Modulus",
+      "Strings"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000032",
+    "title": "Richest Customer Wealth",
+    "difficulty": "Easy",
+    "concepts": [
+      "Arrays",
+      "Simulation"
+    ],
+    "link": "https://leetcode.com/problems/richest-customer-wealth/"
+  },
+  {
+    "id": "000000000033",
+    "title": "Roman to Integer",
+    "difficulty": "Easy",
+    "concepts": [
+      "Hash Maps",
+      "Strings"
+    ],
+    "link": "https://leetcode.com/problems/roman-to-integer/"
+  },
+  {
+    "id": "000000000034",
+    "title": "Running Sum of 1d Array",
+    "difficulty": "Easy",
+    "concepts": [
+      "Arrays",
+      "Prefix Sum"
+    ],
+    "link": "https://leetcode.com/problems/running-sum-of-1d-array/"
+  },
+  {
+    "id": "000000000035",
+    "title": "School Desks",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math",
+      "Simulation"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000036",
+    "title": "Sort Array By Parity",
+    "difficulty": "Easy",
+    "concepts": [
+      "Arrays",
+      "Two Pointers"
+    ],
+    "link": "https://leetcode.com/problems/sort-array-by-parity/"
+  },
+  {
+    "id": "000000000037",
+    "title": "Sum of Digits",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math",
+      "Loops"
+    ],
+    "link": "https://leetcode.com/problems/sum-of-digits/"
+  },
+  {
+    "id": "000000000038",
+    "title": "Sum of Three Numbers",
+    "difficulty": "Easy",
+    "concepts": [
+      "Arrays",
+      "Two Pointers"
+    ],
+    "link": "https://leetcode.com/problems/sum-of-three-numbers/"
+  },
+  {
+    "id": "000000000039",
+    "title": "Swap Last Two Digits",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math",
+      "Modulus"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000040",
+    "title": "Swap Last Two Digits",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math",
+      "Modulus"
+    ],
+    "link": "Notes:"
+  },
+  {
+    "id": "000000000041",
+    "title": "Swap Two Bits",
+    "difficulty": "Easy",
+    "concepts": [
+      "Bit Manipulation"
+    ],
+    "link": "https://leetcode.com/problems/swap-two-bits/"
+  },
+  {
+    "id": "000000000042",
+    "title": "Swap Two Digits",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math"
+    ],
+    "link": "https://leetcode.com/problems/"
+  },
+  {
+    "id": "000000000043",
+    "title": "Tens Digit",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math",
+      "Modulus"
+    ],
+    "link": "https://leetcode.com/problems/tens-digit/"
+  },
+  {
+    "id": "000000000044",
+    "title": "Total Cost",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math"
+    ],
+    "link": "Notes:"
+  },
+  {
+    "id": "000000000045",
+    "title": "Two Bits",
+    "difficulty": "Easy",
+    "concepts": [
+      "Bit Manipulation"
+    ],
+    "link": "https://leetcode.com/problems/swap-two-bits/"
+  },
+  {
+    "id": "000000000046",
+    "title": "Two Digits",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math"
+    ],
+    "link": "https://leetcode.com/problems/two-digits/"
+  },
+  {
+    "id": "000000000047",
+    "title": "Two Letter to Number",
+    "difficulty": "Easy",
+    "concepts": [
+      "Math"
+    ],
+    "link": "Notes:"
+  },
+  {
+    "id": "000000000048",
     "title": "Two Sum",
     "difficulty": "Easy",
     "concepts": [
       "Arrays",
-      "Hash Map"
+      "Hash Maps"
     ],
     "link": "https://leetcode.com/problems/two-sum/"
   },
   {
-    "id": "000000000003",
+    "id": "000000000049",
+    "title": "Two Timestamps",
+    "difficulty": "Easy",
+    "concepts": [
+      "Arrays",
+      "Counting",
+      "Hash Maps"
+    ],
+    "link": "https://leetcode.com/problems/two-timestamps/"
+  },
+  {
+    "id": "000000000050",
     "title": "Valid Palindrome",
     "difficulty": "Easy",
     "concepts": [
@@ -28,5 +488,15 @@
       "Strings"
     ],
     "link": "https://leetcode.com/problems/valid-palindrome/"
+  },
+  {
+    "id": "000000000051",
+    "title": "Valid Sudoku",
+    "difficulty": "Medium",
+    "concepts": [
+      "Hash Maps",
+      "Matrices"
+    ],
+    "link": "https://leetcode.com/problems/valid-sudoku/"
   }
 ]

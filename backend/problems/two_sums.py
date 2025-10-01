@@ -1,7 +1,7 @@
 """
 Problem: Two Sum
 Difficulty: Easy
-Concepts: Arrays, Hash Map
+Concepts: Arrays, Hash Maps
 Link: https://leetcode.com/problems/two-sum/
 Notes:
 - Goal: find two numbers that add up to target
@@ -15,3 +15,15 @@ def two_sum(nums, target):
         if complement in hashmap:
             return [hashmap[complement], i]
         hashmap[num] = i
+    return []
+
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        seen= {}
+        for i,num in enumerate(nums):
+            compliment = target-num
+            if compliment in seen:
+                return [seen[compliment], i]
+            else:
+                seen[num] = i
+        return []

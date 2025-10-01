@@ -1,4 +1,14 @@
 {
+  "Basics": [
+    "Math",
+    "Geometry",
+    "Counting",
+    "Loops",
+    "Conditionals",
+    "Functions",
+    "Modulus",
+    "Simulation"
+  ],
   "Data Structures": [
     "Arrays",
     "Strings",
@@ -15,7 +25,8 @@
     "Tries",
     "Graphs",
     "Directed Graphs",
-    "Weighted Graphs"
+    "Weighted Graphs",
+    "Matrices"
   ],
   "Algorithms": [
     "Sorting",
@@ -35,7 +46,7 @@
     "Kadane’s Algorithm",
     "Union-Find",
     "Bit Manipulation",
-    "Math / Number Theory"
+    "Greedy Algorithms"
   ],
   "Complexity & Optimization": [
     "Time Complexity Analysis",
